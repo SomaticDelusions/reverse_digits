@@ -1,0 +1,8 @@
+Developed by: Sean Glover
+Language: Ruby
+
+Purpose: Accept a series of numbers from the user and reverse the digits without converting to
+a string or performing any string methods on the integer.Reversal should be handled by a custome method.
+
+Secondary Goal: Use least number of lines of code as possible.
+
